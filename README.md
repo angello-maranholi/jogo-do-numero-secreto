@@ -28,17 +28,17 @@ Aplicar conceitos de JavaScript e lógica de programação, como:
 
 # Funcionalidades:
 
-* [x] Geração de número aleatório
-* [x] Validação de tentativas
-* [x] Feedback ao usuário (maior ou menor)
-* [x] Contagem de tentativas
-* [x] Reinício do jogo
+* Geração de número aleatório
+* Validação de tentativas
+* Feedback ao usuário (maior ou menor)
+* Contagem de tentativas
+* Reinício do jogo
 
 # Exemplo de saída:
 
-O número secreto é maior
-O número secreto é menor
-Parabéns! Você acertou!
+O número secreto é maior;
+O número secreto é menor;
+Parabéns! Você acertou!;
 
 # O projeto está hospedado na plataforma Vercel, como forma de praticar o Git e GitHub, assim mantem a disponibilidade do código para testes de funcionalidade:
 
@@ -50,6 +50,6 @@ https://secretnumbergame-jade.vercel.app/
 ├── index.html
 ├── style.css
 └── script.js
-
-# Autor: Angello Maranholi
-# GitHub: https://github.com/angello-maranholi
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Autor: Angello Maranholi
+* GitHub: https://github.com/angello-maranholi
